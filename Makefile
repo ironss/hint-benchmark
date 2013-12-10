@@ -48,7 +48,7 @@ TARGET     = DOUBLE INT FLOAT SHORT LONGLONG
 CC         = cc
 KERN_CFLAGS= 
 DRIV_CFLAGS= 
-CFLAGS     = -O2
+CFLAGS     = -O0
 #
 #
 LFLAGS     = -lm 
